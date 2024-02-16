@@ -1,0 +1,59 @@
+/*  Seletores */
+
+/* Inline= direto na tag*/
+
+h1{
+    /*COR DO ELEMENTO*/
+    color: rgb(119, 0, 255);
+    /*Tipo de fonte*/
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /*Tamanho da fonte*/
+    font-size: 26pt;
+    /*Alinhamento da fonte*/
+    text-align: center;
+
+}
+
+h2{
+
+    color: rgb(119, 0, 255);
+    font-family: cursive;
+}
+
+p{
+    /*Justificar o texto*/
+    text-align: justify;
+    /*Margem*/
+    margin-left: 20px;
+}
+
+h3{
+
+    text-align: center;
+    font-family: fantasy;
+    font-style: italic;
+    color: rgb(119, 0, 255);
+}
+.img_html{
+
+    /*Altura*/
+    height: 200px;
+    /*Largura*/
+    width: 500px;
+}
+
+.img_css{
+
+    /*Altura*/
+    height: 75px;
+    /*Largura*/
+    width: 500px;
+}
+
+.img_css{
+
+    /*Altura*/
+    height: 100px;
+    /*Largura*/
+    width: 500px;
+}
